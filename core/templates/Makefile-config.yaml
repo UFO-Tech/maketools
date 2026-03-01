@@ -1,0 +1,16 @@
+# ------------------------------------------------------------
+# ufotech/maketools configuration file
+#
+# see https://github.com/UFO-Tech/maketools/README.md
+#  or https://github.com/UFO-Tech/maketools/README-ua.md for more information
+# ------------------------------------------------------------
+
+version: 1
+
+repositories:
+#  - namespace: my-custom-modules
+#    url: https://github.com/custom-vendor/maketools-modules.git
+
+require:
+  - docker
+#  - my-custom-modules/my-custom-module

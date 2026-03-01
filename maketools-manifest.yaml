@@ -1,0 +1,11 @@
+version: 1
+src: core/modules
+available:
+  - composer
+  - docker
+  - git
+  - symfony
+environment:
+  - PROJECT_NAME: change_me
+  - WORKDIR: change_me
+  - TEST_ENV_MISSING: change_me
